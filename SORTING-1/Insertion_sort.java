@@ -1,6 +1,6 @@
 public class Insertion_sort{
     public static void main(String args[]){
-        int arr[]={5,4,3,2,1};
+        int arr[]={5, 4, 4, 1, 1};
         sort(arr);
     }
     public static void sort(int arr[]){

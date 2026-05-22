@@ -1,6 +1,6 @@
 public class Bubble_sort{
     public static void main(String args[]){
-        int arr[]={5,4,3,2,1};
+        int arr[]={13,46,24,52,20,9};
         sort(arr);
     }
     public static void sort(int arr[]){
