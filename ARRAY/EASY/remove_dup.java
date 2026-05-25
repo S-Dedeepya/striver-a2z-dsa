@@ -15,9 +15,8 @@ public class remove_dup {
             if(arr[i]!=arr[j]){
                 i++;
                 arr[i]=arr[j];
-            }else{
-                j++;
             }
+            j++;
         }
         return i;
     }
