@@ -7,6 +7,7 @@ public class rotate_kplaces {
         System.out.println(Arrays.toString(arr));
     }
     public static void rotate(int[] arr,int k){
+        k=k%arr.length;
         while(k!=0){
             int last=arr[0];
             for(int i=0;i<arr.length-1;i++){
