@@ -135,5 +135,47 @@ public class Patterns_22{
             }
             System.out.println();
         }
+        //pattern 13
+        int k=1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<=i;j++){
+                System.out.print(k++);
+            }
+            System.out.println();
+        }
+        //pattern 14
+        for(int i=0;i<n;i++){
+            for(int j=0;j<=i;j++){
+                System.out.print((char)(65+j));
+            }
+            System.out.println();
+        }
+        //pattern 15
+        for(int i=5;i>0;i--){
+            for(int j=0;j<i;j++){
+                System.out.print((char)(65+j));
+            }
+            System.out.println();
+        }
+        //pattern 16
+        for(int i=0;i<n;i++){
+            for(int j=0;j<=i;j++){
+                System.out.print((char)(65+i));
+            }
+            System.out.println();
+        }
+        //pattern 17
+        for(int i=0;i<n;i++){
+            for(int j= n-i;j>0;j--){
+                System.out.print(" ");
+            }
+            for(int j=0;j<=i;j++){
+                System.out.print((char)(65+j));
+            }
+            for(int j=0;j<i;j++){
+                System.out.print((char)(65+i-1-j));
+            }
+            System.out.println();
+        }
     }
 }
