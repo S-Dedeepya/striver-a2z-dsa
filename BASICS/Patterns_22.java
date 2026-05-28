@@ -177,5 +177,12 @@ public class Patterns_22{
             }
             System.out.println();
         }
+        //pattern 18
+        for(int i=n;i>0;i--){
+            for(int j=i;j<=n;j++){
+                System.out.print((char)(65+j-1));
+            }
+            System.out.println();
+        }
     }
 }
