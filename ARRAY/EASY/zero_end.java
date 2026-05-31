@@ -7,16 +7,16 @@ public class zero_end {
         System.out.println(Arrays.toString(arr));
     }
     public static void move_zero(int[] arr){
-        int i=0,j=0;
+        int i=0;
+        int j=0;
         while(j<arr.length){
-            if(arr[i]==arr[j]){
-                j++;
-            }else{
-                int temp=arr[i];
-                arr[i]=arr[j];
-                arr[j]=temp;
+            if(arr[j]!=0){
+                int temp=arr[j];
+                arr[j]=arr[i];
+                arr[i]=temp;
                 i++;
             }
+            j++;
         }
     }
 }
