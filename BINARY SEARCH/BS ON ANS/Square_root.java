@@ -8,9 +8,9 @@ public class Square_root {
             int mid=low+(high-low)/2;
             if(mid*mid<=n){
                 ans=mid;
-                low=low+1;
+                low=mid+1;
             }else{
-                high=high-1;
+                high=mid-1;
             }
         }
         System.out.println(ans);
