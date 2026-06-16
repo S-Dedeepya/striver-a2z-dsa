@@ -20,16 +20,16 @@ class Solution {
     }
     public static int min_days(int[] arr,int m,int k,int mid){
         int count=0;
-        int res=0;
+        int ans=0;
         for(int i=0;i<arr.length;i++){
             if(arr[i]<=mid){
                 count++;
             }else{
-                res+=count/k;
+                ans+=count/k;
                 count=0;
             }
         }
-        res+=count/k;
-        return res;
+        ans+=count/k;
+        return ans;
     }
 }
