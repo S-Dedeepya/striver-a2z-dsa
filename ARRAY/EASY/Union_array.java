@@ -1,41 +1,35 @@
-import java.util.Arrays;
-
-public class Union_array {
-    public static void main(String[] args) {
-        int[] arr={3, 4, 6, 7, 9, 9};
-        int[] arr1={1, 5, 7, 8, 8};
-        int[] res=union(arr,arr1);
-        System.out.println(Arrays.toString(res));
-    }
-    public static int[] union(int[] arr,int[] arr1){
-        int[] res=new int[arr.length+arr1.length];
-        int i=0,j=0,k=0;
-        while(i< arr.length && j< arr1.length ){
-            if(arr[i]<arr1[j]){
-                res[k]=arr[i];
-                k++;
+class Solution {
+    public static ArrayList<Integer> findUnion(int a[], int b[]) {
+        ArrayList<Integer> list=new ArrayList<>();
+        int n1=a.length;
+        int n2=b.length;
+        int i=0;
+        int j=0;
+        while(i<n1 && j<n2){
+            if(a[i]<=b[j]){
+                if(list.isEmpty() || list.get(list.size()-1)!=a[i]){
+                     list.add(a[i]);
+                } 
                 i++;
-            }else if(arr[i]>arr1[j]){
-                res[k]=arr1[j];
-                k++;
-                j++;
             }else{
-                res[k]=arr[i];
-                k++;
-                i++;
+                if(list.isEmpty() || list.get(list.size()-1)!=b[j]){
+                    list.add(b[j]);
+                }
                 j++;
             }
         }
-        while(i<arr.length){
-            res[k]=arr[i];
-            k++;
+        while(i<n1){
+            if(list.isEmpty() || list.get(list.size()-1)!=a[i]){
+                list.add(a[i]);
+            } 
             i++;
         }
-        while(j<arr1.length){
-            res[k]=arr1[j];
-            k++;
+        while(j<n2){
+            if(list.isEmpty() || list.get(list.size()-1)!=b[j]){
+                list.add(b[j]);
+            }
             j++;
         }
-        return res;
+        return list;
     }
 }
