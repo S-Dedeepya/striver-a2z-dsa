@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "entries": [
+    {
+      "platform": "leetcode",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Rotate_String",
+      "timestamp": 1782578606229
+    }
+  ],
+  "lastSync": "2026-06-27T16:43:26.535Z"
+}
