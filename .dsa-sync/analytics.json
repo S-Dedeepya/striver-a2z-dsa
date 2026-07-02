@@ -45,7 +45,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Maximum_Nesting_Depth_Of_The_Parentheses",
       "timestamp": 1782923323920
+    },
+    {
+      "platform": "leetcode",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0000_Reverse_Words_In_A_String",
+      "timestamp": 1783010772473
     }
   ],
-  "lastSync": "2026-07-01T16:28:43.939Z"
+  "lastSync": "2026-07-02T16:46:12.493Z"
 }
