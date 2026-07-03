@@ -54,7 +54,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Reverse_Words_In_A_String",
       "timestamp": 1783010772473
+    },
+    {
+      "platform": "leetcode",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Isomorphic_Strings",
+      "timestamp": 1783098898610
     }
   ],
-  "lastSync": "2026-07-02T16:46:12.493Z"
+  "lastSync": "2026-07-03T17:14:58.628Z"
 }
