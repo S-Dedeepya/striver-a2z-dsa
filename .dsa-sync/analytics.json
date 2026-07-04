@@ -63,7 +63,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Isomorphic_Strings",
       "timestamp": 1783098898610
+    },
+    {
+      "platform": "leetcode",
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0015_3sum",
+      "timestamp": 1783182962130
     }
   ],
-  "lastSync": "2026-07-03T17:14:58.628Z"
+  "lastSync": "2026-07-04T16:36:02.173Z"
 }
