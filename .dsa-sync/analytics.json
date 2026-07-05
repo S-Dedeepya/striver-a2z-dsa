@@ -72,7 +72,16 @@
       "language": "java",
       "path": "LeetGFG/0015_3sum",
       "timestamp": 1783182962130
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0000_Maximum_Product_Subarray",
+      "timestamp": 1783270216916
     }
   ],
-  "lastSync": "2026-07-04T16:36:02.173Z"
+  "lastSync": "2026-07-05T16:50:16.934Z"
 }
