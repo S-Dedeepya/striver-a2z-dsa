@@ -81,7 +81,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Maximum_Product_Subarray",
       "timestamp": 1783270216916
+    },
+    {
+      "platform": "leetcode",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Contains_Duplicate",
+      "timestamp": 1783356722517
     }
   ],
-  "lastSync": "2026-07-05T16:50:16.934Z"
+  "lastSync": "2026-07-06T16:52:02.539Z"
 }
