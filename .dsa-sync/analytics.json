@@ -108,7 +108,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Intersection_Of_Two_Arrays",
       "timestamp": 1783507021358
+    },
+    {
+      "platform": "leetcode",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Fizz_Buzz",
+      "timestamp": 1783507334422
     }
   ],
-  "lastSync": "2026-07-08T10:37:01.372Z"
+  "lastSync": "2026-07-08T10:42:14.430Z"
 }
