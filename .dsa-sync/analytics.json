@@ -99,7 +99,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_I",
       "timestamp": 1783438430581
+    },
+    {
+      "platform": "leetcode",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Intersection_Of_Two_Arrays",
+      "timestamp": 1783507021358
     }
   ],
-  "lastSync": "2026-07-07T15:33:50.600Z"
+  "lastSync": "2026-07-08T10:37:01.372Z"
 }
