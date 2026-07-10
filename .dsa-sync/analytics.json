@@ -144,7 +144,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Valid_Perfect_Square",
       "timestamp": 1783665529756
+    },
+    {
+      "platform": "leetcode",
+      "title": "Tip: first check if all element is 0, no need to change, just return. otherwise, if you find 0, add an extra 0 in the ans. then ans[i] = arr[i]...",
+      "slug": "duplicate-zeros",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Duplicate_Zeros",
+      "timestamp": 1783673150254
     }
   ],
-  "lastSync": "2026-07-10T06:38:49.771Z"
+  "lastSync": "2026-07-10T08:45:50.270Z"
 }
