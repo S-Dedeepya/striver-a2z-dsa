@@ -126,7 +126,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Self_Dividing_Numbers",
       "timestamp": 1783613178805
+    },
+    {
+      "platform": "leetcode",
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Excel_Sheet_Column_Title",
+      "timestamp": 1783664645721
     }
   ],
-  "lastSync": "2026-07-09T16:06:18.844Z"
+  "lastSync": "2026-07-10T06:24:05.740Z"
 }
