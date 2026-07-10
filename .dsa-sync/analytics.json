@@ -153,7 +153,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Duplicate_Zeros",
       "timestamp": 1783673150254
+    },
+    {
+      "platform": "leetcode",
+      "title": "Number of Equivalent Domino Pairs",
+      "slug": "number-of-equivalent-domino-pairs",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Number_Of_Equivalent_Domino_Pairs",
+      "timestamp": 1783673997481
     }
   ],
-  "lastSync": "2026-07-10T08:45:50.270Z"
+  "lastSync": "2026-07-10T08:59:57.494Z"
 }
