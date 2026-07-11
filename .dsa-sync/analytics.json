@@ -162,7 +162,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Number_Of_Equivalent_Domino_Pairs",
       "timestamp": 1783673997481
+    },
+    {
+      "platform": "leetcode",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Baseball_Game",
+      "timestamp": 1783786681169
     }
   ],
-  "lastSync": "2026-07-10T08:59:57.494Z"
+  "lastSync": "2026-07-11T16:18:01.187Z"
 }
