@@ -171,7 +171,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Baseball_Game",
       "timestamp": 1783786681169
+    },
+    {
+      "platform": "leetcode",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Contains_Duplicate_Ii",
+      "timestamp": 1783863643042
     }
   ],
-  "lastSync": "2026-07-11T16:18:01.187Z"
+  "lastSync": "2026-07-12T13:40:43.061Z"
 }
