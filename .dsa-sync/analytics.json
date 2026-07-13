@@ -180,7 +180,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Contains_Duplicate_Ii",
       "timestamp": 1783863643042
+    },
+    {
+      "platform": "leetcode",
+      "title": "Smallest Range I",
+      "slug": "smallest-range-i",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Smallest_Range_I",
+      "timestamp": 1783956409837
     }
   ],
-  "lastSync": "2026-07-12T13:40:43.061Z"
+  "lastSync": "2026-07-13T15:26:49.858Z"
 }
