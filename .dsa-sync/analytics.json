@@ -207,7 +207,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Gcd_Of_Odd_And_Even_Sums",
       "timestamp": 1784104851556
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Maximum_Number_Of_Balloons",
+      "timestamp": 1784181892923
     }
   ],
-  "lastSync": "2026-07-15T08:40:51.574Z"
+  "lastSync": "2026-07-16T06:04:52.964Z"
 }
