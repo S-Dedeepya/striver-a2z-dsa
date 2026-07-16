@@ -225,7 +225,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Happy_Number",
       "timestamp": 1784191927369
+    },
+    {
+      "platform": "leetcode",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Word_Pattern",
+      "timestamp": 1784192799239
     }
   ],
-  "lastSync": "2026-07-16T08:52:07.387Z"
+  "lastSync": "2026-07-16T09:06:39.252Z"
 }
