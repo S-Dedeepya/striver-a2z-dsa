@@ -252,7 +252,15 @@
       "language": "java",
       "path": "LeetGFG/0000_Transpose_Matrix",
       "timestamp": 1784270715369
+    },
+    {
+      "platform": "gfg",
+      "title": "Search in Linked List",
+      "slug": "search-in-linked-list-1664434326",
+      "language": "java",
+      "path": "LeetGFG/Search_In_Linked_List",
+      "timestamp": 1784356039071
     }
   ],
-  "lastSync": "2026-07-17T06:45:15.386Z"
+  "lastSync": "2026-07-18T06:27:19.095Z"
 }
