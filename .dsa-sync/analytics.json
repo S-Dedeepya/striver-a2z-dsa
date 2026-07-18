@@ -276,7 +276,15 @@
       "language": "java",
       "path": "LeetGFG/Linked_List_End_Insertion_Solved",
       "timestamp": 1784356677368
+    },
+    {
+      "platform": "gfg",
+      "title": "Delete in a Singly Linked List\nSolved",
+      "slug": "delete-a-node-in-single-linked-list",
+      "language": "java",
+      "path": "LeetGFG/Delete_In_A_Singly_Linked_List_Solved",
+      "timestamp": 1784358423149
     }
   ],
-  "lastSync": "2026-07-18T06:37:57.382Z"
+  "lastSync": "2026-07-18T07:07:03.165Z"
 }
