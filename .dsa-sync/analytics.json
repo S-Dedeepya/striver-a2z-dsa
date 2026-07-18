@@ -301,7 +301,16 @@
       "language": "java",
       "path": "LeetGFG/0000_Middle_Of_The_Linked_List",
       "timestamp": 1784359421578
+    },
+    {
+      "platform": "leetcode",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0000_Find_Greatest_Common_Divisor_Of_Array",
+      "timestamp": 1784382988266
     }
   ],
-  "lastSync": "2026-07-18T07:23:41.591Z"
+  "lastSync": "2026-07-18T13:56:28.292Z"
 }
