@@ -284,7 +284,15 @@
       "language": "java",
       "path": "LeetGFG/Delete_In_A_Singly_Linked_List_Solved",
       "timestamp": 1784358423149
+    },
+    {
+      "platform": "gfg",
+      "title": "Linked List Delete at Position\nSolved",
+      "slug": "linked-list-delete-at-position",
+      "language": "java",
+      "path": "LeetGFG/Linked_List_Delete_At_Position_Solved",
+      "timestamp": 1784359006450
     }
   ],
-  "lastSync": "2026-07-18T07:07:03.165Z"
+  "lastSync": "2026-07-18T07:16:46.465Z"
 }
