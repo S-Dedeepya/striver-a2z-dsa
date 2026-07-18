@@ -260,7 +260,15 @@
       "language": "java",
       "path": "LeetGFG/Search_In_Linked_List",
       "timestamp": 1784356039071
+    },
+    {
+      "platform": "gfg",
+      "title": "Length of Linked List\nSolved",
+      "slug": "count-nodes-of-linked-list",
+      "language": "java",
+      "path": "LeetGFG/Length_Of_Linked_List_Solved",
+      "timestamp": 1784356147140
     }
   ],
-  "lastSync": "2026-07-18T06:27:19.095Z"
+  "lastSync": "2026-07-18T06:29:07.152Z"
 }
