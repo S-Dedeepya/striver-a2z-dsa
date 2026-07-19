@@ -360,7 +360,16 @@
       "language": "java",
       "path": "LeetGFG/2095_Delete_The_Middle_Node_Of_A_Linked_List",
       "timestamp": 1784466917516
+    },
+    {
+      "platform": "leetcode",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0019_Remove_Nth_Node_From_End_Of_List",
+      "timestamp": 1784469464415
     }
   ],
-  "lastSync": "2026-07-19T13:15:17.526Z"
+  "lastSync": "2026-07-19T13:57:44.423Z"
 }
