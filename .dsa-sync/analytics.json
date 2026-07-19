@@ -318,7 +318,16 @@
       "language": "java",
       "path": "LeetGFG/Linked_List_Insertion_At_Beginning_Solved",
       "timestamp": 1784442176544
+    },
+    {
+      "platform": "leetcode",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0000_Delete_Node_In_A_Linked_List",
+      "timestamp": 1784442275621
     }
   ],
-  "lastSync": "2026-07-19T06:22:56.586Z"
+  "lastSync": "2026-07-19T06:24:35.633Z"
 }
