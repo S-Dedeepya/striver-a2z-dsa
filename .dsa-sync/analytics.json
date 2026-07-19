@@ -310,7 +310,15 @@
       "language": "java",
       "path": "LeetGFG/0000_Find_Greatest_Common_Divisor_Of_Array",
       "timestamp": 1784382988266
+    },
+    {
+      "platform": "gfg",
+      "title": "Linked List Insertion At Beginning\nSolved",
+      "slug": "linked-list-insertion-at-beginning",
+      "language": "java",
+      "path": "LeetGFG/Linked_List_Insertion_At_Beginning_Solved",
+      "timestamp": 1784442176544
     }
   ],
-  "lastSync": "2026-07-18T13:56:28.292Z"
+  "lastSync": "2026-07-19T06:22:56.586Z"
 }
