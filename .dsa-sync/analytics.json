@@ -327,7 +327,15 @@
       "language": "java",
       "path": "LeetGFG/0000_Delete_Node_In_A_Linked_List",
       "timestamp": 1784442275621
+    },
+    {
+      "platform": "gfg",
+      "title": "Doubly Linked List Tail Insert\nSolved",
+      "slug": "doubly-linked-list-tail-insert",
+      "language": "java",
+      "path": "LeetGFG/Doubly_Linked_List_Tail_Insert_Solved",
+      "timestamp": 1784442464706
     }
   ],
-  "lastSync": "2026-07-19T06:24:35.633Z"
+  "lastSync": "2026-07-19T06:27:44.721Z"
 }
