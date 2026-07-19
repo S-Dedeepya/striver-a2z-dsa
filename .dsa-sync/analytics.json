@@ -335,7 +335,15 @@
       "language": "java",
       "path": "LeetGFG/Doubly_Linked_List_Tail_Insert_Solved",
       "timestamp": 1784442464706
+    },
+    {
+      "platform": "gfg",
+      "title": "Delete in a Doubly Linked List\nSolved",
+      "slug": "delete-node-in-doubly-linked-list",
+      "language": "java",
+      "path": "LeetGFG/Delete_In_A_Doubly_Linked_List_Solved",
+      "timestamp": 1784443326763
     }
   ],
-  "lastSync": "2026-07-19T06:27:44.721Z"
+  "lastSync": "2026-07-19T06:42:06.778Z"
 }
