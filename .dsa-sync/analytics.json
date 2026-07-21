@@ -378,7 +378,16 @@
       "language": "java",
       "path": "LeetGFG/0203_Remove_Linked_List_Elements",
       "timestamp": 1784534114376
+    },
+    {
+      "platform": "leetcode",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0061_Rotate_List",
+      "timestamp": 1784638890118
     }
   ],
-  "lastSync": "2026-07-20T07:55:14.387Z"
+  "lastSync": "2026-07-21T13:01:30.154Z"
 }
