@@ -438,7 +438,16 @@
       "language": "java",
       "path": "LeetGFG/Merge_Two_Sorted_Linked_Lists",
       "timestamp": 1784788127230
+    },
+    {
+      "platform": "leetcode",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0002_Add_Two_Numbers",
+      "timestamp": 1784790209819
     }
   ],
-  "lastSync": "2026-07-23T06:28:47.238Z"
+  "lastSync": "2026-07-23T07:03:29.829Z"
 }
