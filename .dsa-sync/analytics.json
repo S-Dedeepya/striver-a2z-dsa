@@ -447,7 +447,15 @@
       "language": "java",
       "path": "LeetGFG/0002_Add_Two_Numbers",
       "timestamp": 1784790209819
+    },
+    {
+      "platform": "gfg",
+      "title": "Remove duplicates from a sorted DLL",
+      "slug": "remove-duplicates-from-a-sorted-doubly-linked-list",
+      "language": "java",
+      "path": "LeetGFG/Remove_Duplicates_From_A_Sorted_DLL",
+      "timestamp": 1784812358843
     }
   ],
-  "lastSync": "2026-07-23T07:03:29.829Z"
+  "lastSync": "2026-07-23T13:12:38.852Z"
 }
