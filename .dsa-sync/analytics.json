@@ -455,7 +455,15 @@
       "language": "java",
       "path": "LeetGFG/Remove_Duplicates_From_A_Sorted_DLL",
       "timestamp": 1784812358843
+    },
+    {
+      "platform": "gfg",
+      "title": "Delete all occurrences in a doubly linked list",
+      "slug": "delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list",
+      "language": "java",
+      "path": "LeetGFG/Delete_All_Occurrences_In_A_Doubly_Linked_List",
+      "timestamp": 1784812967116
     }
   ],
-  "lastSync": "2026-07-23T13:12:38.852Z"
+  "lastSync": "2026-07-23T13:22:47.124Z"
 }
