@@ -463,7 +463,16 @@
       "language": "java",
       "path": "LeetGFG/Delete_All_Occurrences_In_A_Doubly_Linked_List",
       "timestamp": 1784812967116
+    },
+    {
+      "platform": "leetcode",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0206_Reverse_Linked_List",
+      "timestamp": 1784879244862
     }
   ],
-  "lastSync": "2026-07-23T13:22:47.124Z"
+  "lastSync": "2026-07-24T07:47:24.872Z"
 }
