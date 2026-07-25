@@ -490,7 +490,16 @@
       "language": "java",
       "path": "LeetGFG/0141_Linked_List_Cycle",
       "timestamp": 1784986648177
+    },
+    {
+      "platform": "leetcode",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0142_Linked_List_Cycle_Ii",
+      "timestamp": 1784990427196
     }
   ],
-  "lastSync": "2026-07-25T13:37:28.188Z"
+  "lastSync": "2026-07-25T14:40:27.208Z"
 }
