@@ -481,7 +481,16 @@
       "language": "java",
       "path": "LeetGFG/0025_Reverse_Nodes_In_K_Group",
       "timestamp": 1784882503459
+    },
+    {
+      "platform": "leetcode",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0141_Linked_List_Cycle",
+      "timestamp": 1784986648177
     }
   ],
-  "lastSync": "2026-07-24T08:41:43.468Z"
+  "lastSync": "2026-07-25T13:37:28.188Z"
 }
