@@ -499,7 +499,15 @@
       "language": "java",
       "path": "LeetGFG/0142_Linked_List_Cycle_Ii",
       "timestamp": 1784990427196
+    },
+    {
+      "platform": "gfg",
+      "title": "Find length of Loop",
+      "slug": "find-length-of-loop",
+      "language": "java",
+      "path": "LeetGFG/Find_Length_Of_Loop",
+      "timestamp": 1784995715712
     }
   ],
-  "lastSync": "2026-07-25T14:40:27.208Z"
+  "lastSync": "2026-07-25T16:08:35.723Z"
 }
