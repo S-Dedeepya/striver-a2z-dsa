@@ -507,7 +507,16 @@
       "language": "java",
       "path": "LeetGFG/Find_Length_Of_Loop",
       "timestamp": 1784995715712
+    },
+    {
+      "platform": "leetcode",
+      "title": "Largest Integer With Given Digit Sum",
+      "slug": "largest-integer-with-given-digit-sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/4000_Largest_Integer_With_Given_Digit_Sum",
+      "timestamp": 1785059410084
     }
   ],
-  "lastSync": "2026-07-25T16:08:35.723Z"
+  "lastSync": "2026-07-26T09:50:10.094Z"
 }
