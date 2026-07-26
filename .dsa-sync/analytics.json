@@ -516,7 +516,16 @@
       "language": "java",
       "path": "LeetGFG/4000_Largest_Integer_With_Given_Digit_Sum",
       "timestamp": 1785059410084
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/3536_Maximum_Product_Of_Two_Digits",
+      "timestamp": 1785061061475
     }
   ],
-  "lastSync": "2026-07-26T09:50:10.094Z"
+  "lastSync": "2026-07-26T10:17:41.486Z"
 }
