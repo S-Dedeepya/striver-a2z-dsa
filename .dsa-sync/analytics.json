@@ -534,7 +534,16 @@
       "language": "java",
       "path": "LeetGFG/1464_Maximum_Product_Of_Two_Elements_In_An_Array",
       "timestamp": 1785127522795
+    },
+    {
+      "platform": "leetcode",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0234_Palindrome_Linked_List",
+      "timestamp": 1785161615359
     }
   ],
-  "lastSync": "2026-07-27T04:45:22.825Z"
+  "lastSync": "2026-07-27T14:13:35.371Z"
 }
