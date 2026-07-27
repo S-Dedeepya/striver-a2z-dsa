@@ -525,7 +525,16 @@
       "language": "java",
       "path": "LeetGFG/3536_Maximum_Product_Of_Two_Digits",
       "timestamp": 1785061061475
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/1464_Maximum_Product_Of_Two_Elements_In_An_Array",
+      "timestamp": 1785127522795
     }
   ],
-  "lastSync": "2026-07-26T10:17:41.486Z"
+  "lastSync": "2026-07-27T04:45:22.825Z"
 }
