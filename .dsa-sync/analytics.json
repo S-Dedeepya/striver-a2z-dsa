@@ -543,7 +543,16 @@
       "language": "java",
       "path": "LeetGFG/0234_Palindrome_Linked_List",
       "timestamp": 1785161615359
+    },
+    {
+      "platform": "leetcode",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/0328_Odd_Even_Linked_List",
+      "timestamp": 1785250212315
     }
   ],
-  "lastSync": "2026-07-27T14:13:35.371Z"
+  "lastSync": "2026-07-28T14:50:12.328Z"
 }
