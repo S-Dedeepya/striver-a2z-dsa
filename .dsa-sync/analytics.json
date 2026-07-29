@@ -561,7 +561,16 @@
       "language": "java",
       "path": "LeetGFG/1331_Rank_Transform_Of_An_Array",
       "timestamp": 1785316836582
+    },
+    {
+      "platform": "leetcode",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/1768_Merge_Strings_Alternately",
+      "timestamp": 1785321987996
     }
   ],
-  "lastSync": "2026-07-29T09:20:36.595Z"
+  "lastSync": "2026-07-29T10:46:28.006Z"
 }
