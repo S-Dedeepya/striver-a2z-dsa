@@ -570,7 +570,16 @@
       "language": "java",
       "path": "LeetGFG/1768_Merge_Strings_Alternately",
       "timestamp": 1785321987996
+    },
+    {
+      "platform": "leetcode",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/1431_Kids_With_The_Greatest_Number_Of_Candies",
+      "timestamp": 1785391819840
     }
   ],
-  "lastSync": "2026-07-29T10:46:28.006Z"
+  "lastSync": "2026-07-30T06:10:19.851Z"
 }
