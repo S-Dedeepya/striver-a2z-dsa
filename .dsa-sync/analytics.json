@@ -613,7 +613,15 @@
       "language": "java",
       "path": "LeetGFG/Add_1_To_A_Linked_List_Number",
       "timestamp": 1785774549926
+    },
+    {
+      "platform": "gfg",
+      "title": "Rotate Doubly Linked List",
+      "slug": "rotate-doubly-linked-list-by-p-nodes",
+      "language": "java",
+      "path": "LeetGFG/Rotate_Doubly_Linked_List",
+      "timestamp": 1785861807175
     }
   ],
-  "lastSync": "2026-08-03T16:29:09.937Z"
+  "lastSync": "2026-08-04T16:43:27.188Z"
 }
