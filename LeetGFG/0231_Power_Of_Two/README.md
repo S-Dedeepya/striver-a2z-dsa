@@ -24,15 +24,14 @@ bitwise end operator between power of 2 and before that number will give zero
 ((n & (n - 1)) == 0). write this in if condition, because if written differently then it will error due to operator precedence
 
 ### Edge Cases Handled
-not much edge cases involved
+numbers less than 0 will return false
 
 ## Solution
 
 ```java
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        int res=n & n-1;
-        if(res==0) return true;
+        if(n>0 && (n&(n-1))==0) return true;
         else return false;
     }
 }
