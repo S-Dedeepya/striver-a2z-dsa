@@ -621,7 +621,16 @@
       "language": "java",
       "path": "LeetGFG/Rotate_Doubly_Linked_List",
       "timestamp": 1785861807175
+    },
+    {
+      "platform": "leetcode",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0231_Power_Of_Two",
+      "timestamp": 1785935140907
     }
   ],
-  "lastSync": "2026-08-04T16:43:27.188Z"
+  "lastSync": "2026-08-05T13:05:40.938Z"
 }
