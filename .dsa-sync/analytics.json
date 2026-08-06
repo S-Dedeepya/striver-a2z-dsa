@@ -654,7 +654,16 @@
       "language": "java",
       "path": "LeetGFG/Smith_Number",
       "timestamp": 1786030643683
+    },
+    {
+      "platform": "leetcode",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/3345_Smallest_Divisible_Digit_Product_I",
+      "timestamp": 1786031381688
     }
   ],
-  "lastSync": "2026-08-06T15:37:23.692Z"
+  "lastSync": "2026-08-06T15:49:41.698Z"
 }
