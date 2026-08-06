@@ -630,7 +630,15 @@
       "language": "java",
       "path": "LeetGFG/0231_Power_Of_Two",
       "timestamp": 1785935140907
+    },
+    {
+      "platform": "gfg",
+      "title": "Armstrong Numbers",
+      "slug": "armstrong-numbers2727",
+      "language": "java",
+      "path": "LeetGFG/Armstrong_Numbers",
+      "timestamp": 1786021434472
     }
   ],
-  "lastSync": "2026-08-05T13:05:40.938Z"
+  "lastSync": "2026-08-06T13:03:54.484Z"
 }
