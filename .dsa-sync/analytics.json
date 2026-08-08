@@ -681,7 +681,16 @@
       "language": "java",
       "path": "LeetGFG/0414_Third_Maximum_Number",
       "timestamp": 1786208462501
+    },
+    {
+      "platform": "leetcode",
+      "title": "Neither Minimum nor Maximum",
+      "slug": "neither-minimum-nor-maximum",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0414_Neither_Minimum_Nor_Maximum",
+      "timestamp": 1786208781265
     }
   ],
-  "lastSync": "2026-08-08T17:01:02.510Z"
+  "lastSync": "2026-08-08T17:06:21.272Z"
 }
