@@ -672,7 +672,16 @@
       "language": "java",
       "path": "LeetGFG/3731_Find_Missing_Elements",
       "timestamp": 1786117460106
+    },
+    {
+      "platform": "leetcode",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/0414_Third_Maximum_Number",
+      "timestamp": 1786208462501
     }
   ],
-  "lastSync": "2026-08-07T15:44:20.121Z"
+  "lastSync": "2026-08-08T17:01:02.510Z"
 }
