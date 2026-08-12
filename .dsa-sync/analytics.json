@@ -726,7 +726,16 @@
       "language": "java",
       "path": "LeetGFG/0455_Assign_Cookies",
       "timestamp": 1786518422609
+    },
+    {
+      "platform": "leetcode",
+      "title": "Check If N and Its Double Exist",
+      "slug": "check-if-n-and-its-double-exist",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/1346_Check_If_N_And_Its_Double_Exist",
+      "timestamp": 1786525454800
     }
   ],
-  "lastSync": "2026-08-12T07:07:02.616Z"
+  "lastSync": "2026-08-12T09:04:14.807Z"
 }
