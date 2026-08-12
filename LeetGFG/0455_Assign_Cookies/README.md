@@ -18,13 +18,13 @@
 ## Revision Notes
 
 ### Intuition
-Sort arrays and use two pointers for checking s[i]>=g[i]
+sort arrays and use two pointers to check if s[i]>=g[i]
 
 ### Lines / Logic To Be Careful With
-one cookie can satisfy only one child
+one cookie assigned for only one child
 
 ### Edge Cases Handled
-not much edge cases present
+not much edge cases handled
 
 ## Solution
 
@@ -37,11 +37,11 @@ class Solution {
         int j=0;
         int count=0;
         while(i<s.length && j< g.length){
-            if(s[i]>=g[i]){
+            if(s[i]>=g[j]){
                 count++;
-                i++;
+                j++;
             }
-            j++;
+            i++;
         }
         return count;
     }
