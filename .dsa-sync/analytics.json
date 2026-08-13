@@ -735,7 +735,15 @@
       "language": "java",
       "path": "LeetGFG/1346_Check_If_N_And_Its_Double_Exist",
       "timestamp": 1786525454800
+    },
+    {
+      "platform": "leetcode",
+      "title": "Guess Number Higher or Lower",
+      "slug": "guess-number-higher-or-lower",
+      "language": "java",
+      "path": "LeetGFG/0374_Guess_Number_Higher_Or_Lower",
+      "timestamp": 1786608716168
     }
   ],
-  "lastSync": "2026-08-12T09:04:14.807Z"
+  "lastSync": "2026-08-13T08:11:56.173Z"
 }
