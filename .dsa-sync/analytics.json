@@ -743,7 +743,16 @@
       "language": "java",
       "path": "LeetGFG/0374_Guess_Number_Higher_Or_Lower",
       "timestamp": 1786608716168
+    },
+    {
+      "platform": "leetcode",
+      "title": "Element Appearing More Than 25% In Sorted Array",
+      "slug": "element-appearing-more-than-25-in-sorted-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/1287_Element_Appearing_More_Than_25_In_Sorted_Array",
+      "timestamp": 1786690513843
     }
   ],
-  "lastSync": "2026-08-13T08:11:56.173Z"
+  "lastSync": "2026-08-14T06:55:13.852Z"
 }
