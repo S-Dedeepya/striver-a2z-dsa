@@ -752,7 +752,16 @@
       "language": "java",
       "path": "LeetGFG/1287_Element_Appearing_More_Than_25_In_Sorted_Array",
       "timestamp": 1786690513843
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Substrings With Distinct Start",
+      "slug": "maximum-substrings-with-distinct-start",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetGFG/3760_Maximum_Substrings_With_Distinct_Start",
+      "timestamp": 1786816722900
     }
   ],
-  "lastSync": "2026-08-14T06:55:13.852Z"
+  "lastSync": "2026-08-15T17:58:42.904Z"
 }
