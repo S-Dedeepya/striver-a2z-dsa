@@ -797,7 +797,16 @@
       "language": "java",
       "path": "LeetGFG/3471_Find_The_Largest_Almost_Missing_Integer",
       "timestamp": 1787070321425
+    },
+    {
+      "platform": "leetcode",
+      "title": "Three Consecutive Odds",
+      "slug": "three-consecutive-odds",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/1550_Three_Consecutive_Odds",
+      "timestamp": 1787160526911
     }
   ],
-  "lastSync": "2026-08-18T16:25:21.429Z"
+  "lastSync": "2026-08-19T17:28:46.923Z"
 }
