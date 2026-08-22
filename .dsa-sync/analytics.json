@@ -824,7 +824,16 @@
       "language": "java",
       "path": "LeetGFG/0011_Container_With_Most_Water",
       "timestamp": 1787308670031
+    },
+    {
+      "platform": "leetcode",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/3622_Check_Divisibility_By_Digit_Sum_And_Product",
+      "timestamp": 1787416099476
     }
   ],
-  "lastSync": "2026-08-21T10:37:50.044Z"
+  "lastSync": "2026-08-22T16:28:19.486Z"
 }
