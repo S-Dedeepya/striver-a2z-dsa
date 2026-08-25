@@ -842,7 +842,16 @@
       "language": "java",
       "path": "LeetGFG/0344_Reverse_String",
       "timestamp": 1787554714180
+    },
+    {
+      "platform": "leetcode",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/3718_Smallest_Missing_Multiple_Of_K",
+      "timestamp": 1787651024238
     }
   ],
-  "lastSync": "2026-08-24T06:58:34.191Z"
+  "lastSync": "2026-08-25T09:43:44.250Z"
 }
