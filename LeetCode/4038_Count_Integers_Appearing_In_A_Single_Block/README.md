@@ -102,3 +102,47 @@ Update last = nums[i] every iteration, even when the number is already marked -1
 
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
+
+## Solution 3
+
+```java
+class Solution {
+    public int countSpecialIntegers(int[] nums) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int prev = -1;
+
+        for(int i = 0; i < nums.length; i++) {
+            if(nums[i] != prev) {
+                map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+                prev = nums[i];
+            }
+        }
+
+        int ans = 0;
+
+        for(int x : map.keySet()) {
+            if(map.get(x) == 1) {
+                ans++;
+            }
+        }
+
+        return ans;
+    }
+}
+```
+
+### Intuition
+Use a HashMap to store how many separate blocks each number appears in; count numbers whose block frequency is exactly 1.
+
+### Logic to Be Careful With
+nums[i] != prev means a new block, while repeated consecutive values stay in the same block.
+
+### Edge Cases Handled
+Don't count every occurrence; only increment the map when a new block starts. Always update prev.
+
+### Mistakes Made
+All same → 1; alternating values like [1,2,1] → 0; single element → 1.
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(n)
