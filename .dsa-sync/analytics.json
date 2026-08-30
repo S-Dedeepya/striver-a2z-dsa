@@ -905,7 +905,16 @@
       "language": "java",
       "path": "LeetGFG/1394_Find_Lucky_Integer_In_An_Array",
       "timestamp": 1787984143395
+    },
+    {
+      "platform": "leetcode",
+      "title": "Count Integers Appearing in a Single Block",
+      "slug": "count-integers-appearing-in-a-single-block",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetGFG/4038_Count_Integers_Appearing_In_A_Single_Block",
+      "timestamp": 1788096935625
     }
   ],
-  "lastSync": "2026-08-29T06:15:43.407Z"
+  "lastSync": "2026-08-30T13:35:35.638Z"
 }
