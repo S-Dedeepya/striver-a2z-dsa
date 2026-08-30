@@ -59,3 +59,46 @@ This caused the next occurrence of that value to be incorrectly treated as part 
 
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
+
+## Solution 2
+
+```java
+class Solution {
+    public int countSpecialIntegers(int[] nums) {
+        int[] blocks = new int[101];
+        int prev = -1;
+
+        for(int i = 0; i < nums.length; i++) {
+            if(nums[i] != prev) {
+                blocks[nums[i]]++;
+                prev = nums[i];
+            }
+        }
+
+        int ans = 0;
+
+        for(int i = 1; i <= 100; i++) {
+            if(blocks[i] == 1) {
+                ans++;
+            }
+        }
+
+        return ans;
+    }
+}
+```
+
+### Intuition
+Every time nums[i] != prev, a new block starts. Count blocks for each number, then count numbers whose block count is exactly 1.
+
+### Logic to Be Careful With
+Compare with the previous element, not just whether the number has appeared before.
+
+### Edge Cases Handled
+single element in the array
+
+### Mistakes Made
+Update last = nums[i] every iteration, even when the number is already marked -1.
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
