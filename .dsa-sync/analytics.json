@@ -932,7 +932,16 @@
       "language": "java",
       "path": "LeetCode/2739_Total_Distance_Traveled",
       "timestamp": 1788197985531
+    },
+    {
+      "platform": "leetcode",
+      "title": "Removing Minimum and Maximum From Array",
+      "slug": "removing-minimum-and-maximum-from-array",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/2091_Removing_Minimum_And_Maximum_From_Array",
+      "timestamp": 1788266872683
     }
   ],
-  "lastSync": "2026-08-31T17:39:45.543Z"
+  "lastSync": "2026-09-01T12:47:52.696Z"
 }
