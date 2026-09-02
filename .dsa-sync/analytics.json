@@ -959,7 +959,16 @@
       "language": "java",
       "path": "LeetCode/2540_Minimum_Common_Value",
       "timestamp": 1788346133282
+    },
+    {
+      "platform": "leetcode",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/0445_Add_Two_Numbers_Ii",
+      "timestamp": 1788351346310
     }
   ],
-  "lastSync": "2026-09-02T10:48:53.292Z"
+  "lastSync": "2026-09-02T12:15:46.322Z"
 }
