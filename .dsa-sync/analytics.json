@@ -941,7 +941,16 @@
       "language": "java",
       "path": "LeetCode/2091_Removing_Minimum_And_Maximum_From_Array",
       "timestamp": 1788266872683
+    },
+    {
+      "platform": "leetcode",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/0881_Boats_To_Save_People",
+      "timestamp": 1788343564422
     }
   ],
-  "lastSync": "2026-09-01T12:47:52.696Z"
+  "lastSync": "2026-09-02T10:06:04.435Z"
 }
