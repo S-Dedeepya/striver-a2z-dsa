@@ -977,7 +977,16 @@
       "language": "java",
       "path": "LeetCode/1669_Merge_In_Between_Linked_Lists",
       "timestamp": 1788353092258
+    },
+    {
+      "platform": "leetcode",
+      "title": "Double a Number Represented as a Linked List",
+      "slug": "double-a-number-represented-as-a-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/2816_Double_A_Number_Represented_As_A_Linked_List",
+      "timestamp": 1788354136641
     }
   ],
-  "lastSync": "2026-09-02T12:44:52.271Z"
+  "lastSync": "2026-09-02T13:02:16.673Z"
 }
