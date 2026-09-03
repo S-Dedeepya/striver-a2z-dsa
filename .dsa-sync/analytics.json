@@ -995,7 +995,16 @@
       "language": "java",
       "path": "LeetCode/2181_Merge_Nodes_In_Between_Zeros",
       "timestamp": 1788429175881
+    },
+    {
+      "platform": "leetcode",
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "slug": "insert-greatest-common-divisors-in-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/2807_Insert_Greatest_Common_Divisors_In_Linked_List",
+      "timestamp": 1788431258086
     }
   ],
-  "lastSync": "2026-09-03T09:52:55.893Z"
+  "lastSync": "2026-09-03T10:27:38.097Z"
 }
