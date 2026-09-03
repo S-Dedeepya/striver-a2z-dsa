@@ -1013,7 +1013,16 @@
       "language": "java",
       "path": "LeetCode/2181_Linked_List_Components",
       "timestamp": 1788432589186
+    },
+    {
+      "platform": "leetcode",
+      "title": "Step 1. Use 2 pointers, one fast and the other slow until fast reaches the end. Put the numbers into the stack while traversing slow pointer.\nStep 2. Move slow pointer further, and pop the  stack",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/2130_Maximum_Twin_Sum_Of_A_Linked_List",
+      "timestamp": 1788434841187
     }
   ],
-  "lastSync": "2026-09-03T10:49:49.198Z"
+  "lastSync": "2026-09-03T11:27:21.199Z"
 }
