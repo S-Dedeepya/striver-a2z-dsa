@@ -986,7 +986,16 @@
       "language": "java",
       "path": "LeetCode/2816_Double_A_Number_Represented_As_A_Linked_List",
       "timestamp": 1788354136641
+    },
+    {
+      "platform": "leetcode",
+      "title": "Merge Nodes in Between Zeros",
+      "slug": "merge-nodes-in-between-zeros",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/2181_Merge_Nodes_In_Between_Zeros",
+      "timestamp": 1788429175881
     }
   ],
-  "lastSync": "2026-09-02T13:02:16.673Z"
+  "lastSync": "2026-09-03T09:52:55.893Z"
 }
