@@ -1022,7 +1022,16 @@
       "language": "java",
       "path": "LeetCode/2130_Maximum_Twin_Sum_Of_A_Linked_List",
       "timestamp": 1788434841187
+    },
+    {
+      "platform": "leetcode",
+      "title": "Long Time No Seen, Aehhh Easy Question !!",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/1290_Convert_Binary_Number_In_A_Linked_List_To_Integer",
+      "timestamp": 1788508617376
     }
   ],
-  "lastSync": "2026-09-03T11:27:21.199Z"
+  "lastSync": "2026-09-04T07:56:57.389Z"
 }
