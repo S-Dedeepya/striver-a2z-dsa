@@ -1040,7 +1040,16 @@
       "language": "java",
       "path": "LeetCode/0092_Reverse_Linked_List_Ii",
       "timestamp": 1788628038968
+    },
+    {
+      "platform": "leetcode",
+      "title": "Replace Elements with Greatest Element on Right Side",
+      "slug": "replace-elements-with-greatest-element-on-right-side",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/1299_Replace_Elements_With_Greatest_Element_On_Right_Side",
+      "timestamp": 1788675216006
     }
   ],
-  "lastSync": "2026-09-05T17:07:18.982Z"
+  "lastSync": "2026-09-06T06:13:36.018Z"
 }
