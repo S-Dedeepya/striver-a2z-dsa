@@ -37,7 +37,7 @@ class Solution {
         while(temp!=null){
             if(temp.next!=null && temp.val==temp.next.val){
                 int dup=temp.val;
-                while(temp.next!=null && temp.val==dup){
+                while(temp!=null && temp.val==dup){
                     temp=temp.next;
                 }
                 prev.next=temp;
@@ -49,7 +49,6 @@ class Solution {
         return dummy.next;
     }
 }
-```
 
 ### Intuition
 The list is sorted, so duplicate values are always together.
