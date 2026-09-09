@@ -1084,7 +1084,16 @@
       "language": "java",
       "path": "LeetCode/0024_Swap_Nodes_In_Pairs",
       "timestamp": 1788866764534
+    },
+    {
+      "platform": "leetcode",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/0143_Reorder_List",
+      "timestamp": 1788947307849
     }
   ],
-  "lastSync": "2026-09-08T11:26:04.549Z"
+  "lastSync": "2026-09-09T09:48:27.863Z"
 }
