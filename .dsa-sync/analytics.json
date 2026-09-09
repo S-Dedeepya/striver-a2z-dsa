@@ -1093,7 +1093,16 @@
       "language": "java",
       "path": "LeetCode/0143_Reorder_List",
       "timestamp": 1788947307849
+    },
+    {
+      "platform": "leetcode",
+      "title": "Swapping Nodes in a Linked List",
+      "slug": "swapping-nodes-in-a-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/1721_Swapping_Nodes_In_A_Linked_List",
+      "timestamp": 1788949370844
     }
   ],
-  "lastSync": "2026-09-09T09:48:27.863Z"
+  "lastSync": "2026-09-09T10:22:50.858Z"
 }
