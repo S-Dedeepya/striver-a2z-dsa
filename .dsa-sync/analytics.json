@@ -1102,7 +1102,15 @@
       "language": "java",
       "path": "LeetCode/1721_Swapping_Nodes_In_A_Linked_List",
       "timestamp": 1788949370844
+    },
+    {
+      "platform": "gfg",
+      "title": "Insert in Sorted Circular Linked List",
+      "slug": "sorted-insert-for-circular-linked-list",
+      "language": "java",
+      "path": "GFG/Insert_In_Sorted_Circular_Linked_List",
+      "timestamp": 1788951482149
     }
   ],
-  "lastSync": "2026-09-09T10:22:50.858Z"
+  "lastSync": "2026-09-09T10:58:02.161Z"
 }
