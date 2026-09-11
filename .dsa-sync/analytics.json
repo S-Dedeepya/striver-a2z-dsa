@@ -1128,7 +1128,16 @@
       "language": "java",
       "path": "LeetCode/3232_Find_If_Digit_Game_Can_Be_Won",
       "timestamp": 1789040018013
+    },
+    {
+      "platform": "leetcode",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/3483_Unique_3_Digit_Even_Numbers",
+      "timestamp": 1789145173121
     }
   ],
-  "lastSync": "2026-09-10T11:33:38.027Z"
+  "lastSync": "2026-09-11T16:46:13.135Z"
 }
