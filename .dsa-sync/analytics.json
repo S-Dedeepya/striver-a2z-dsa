@@ -1155,7 +1155,16 @@
       "language": "java",
       "path": "LeetCode/3783_Mirror_Distance_Of_An_Integer",
       "timestamp": 1789319334480
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Distance Between a Pair of Values",
+      "slug": "maximum-distance-between-a-pair-of-values",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/1855_Maximum_Distance_Between_A_Pair_Of_Values",
+      "timestamp": 1789401438993
     }
   ],
-  "lastSync": "2026-09-13T17:08:54.509Z"
+  "lastSync": "2026-09-14T15:57:19.011Z"
 }
