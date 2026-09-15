@@ -1164,7 +1164,16 @@
       "language": "java",
       "path": "LeetCode/1855_Maximum_Distance_Between_A_Pair_Of_Values",
       "timestamp": 1789401438993
+    },
+    {
+      "platform": "leetcode",
+      "title": "Count Integers With Even Digit Sum",
+      "slug": "count-integers-with-even-digit-sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/2180_Count_Integers_With_Even_Digit_Sum",
+      "timestamp": 1789483738549
     }
   ],
-  "lastSync": "2026-09-14T15:57:19.011Z"
+  "lastSync": "2026-09-15T14:48:58.554Z"
 }
