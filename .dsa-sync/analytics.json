@@ -1182,7 +1182,16 @@
       "language": "java",
       "path": "LeetCode/2269_Find_The_K_Beauty_Of_A_Number",
       "timestamp": 1789533066674
+    },
+    {
+      "platform": "leetcode",
+      "title": "Two Furthest Houses With Different Colors",
+      "slug": "two-furthest-houses-with-different-colors",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/1855_Two_Furthest_Houses_With_Different_Colors",
+      "timestamp": 1789534202375
     }
   ],
-  "lastSync": "2026-09-16T04:31:06.679Z"
+  "lastSync": "2026-09-16T04:50:02.380Z"
 }
