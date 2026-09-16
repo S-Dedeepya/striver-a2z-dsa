@@ -1173,7 +1173,16 @@
       "language": "java",
       "path": "LeetCode/2180_Count_Integers_With_Even_Digit_Sum",
       "timestamp": 1789483738549
+    },
+    {
+      "platform": "leetcode",
+      "title": "Find the K-Beauty of a Number",
+      "slug": "find-the-k-beauty-of-a-number",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/2269_Find_The_K_Beauty_Of_A_Number",
+      "timestamp": 1789533066674
     }
   ],
-  "lastSync": "2026-09-15T14:48:58.554Z"
+  "lastSync": "2026-09-16T04:31:06.679Z"
 }
