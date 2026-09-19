@@ -1200,7 +1200,16 @@
       "language": "java",
       "path": "LeetCode/1855_Maximum_Difference_Between_Increasing_Elements",
       "timestamp": 1789534767420
+    },
+    {
+      "platform": "leetcode",
+      "title": "Distance Between Bus Stops",
+      "slug": "distance-between-bus-stops",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/1184_Distance_Between_Bus_Stops",
+      "timestamp": 1789835342036
     }
   ],
-  "lastSync": "2026-09-16T04:59:27.424Z"
+  "lastSync": "2026-09-19T16:29:02.042Z"
 }
