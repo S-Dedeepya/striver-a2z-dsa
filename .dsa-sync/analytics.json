@@ -1209,7 +1209,16 @@
       "language": "java",
       "path": "LeetCode/1184_Distance_Between_Bus_Stops",
       "timestamp": 1789835342036
+    },
+    {
+      "platform": "leetcode",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/3498_Reverse_Degree_Of_A_String",
+      "timestamp": 1789890343104
     }
   ],
-  "lastSync": "2026-09-19T16:29:02.042Z"
+  "lastSync": "2026-09-20T07:45:43.109Z"
 }
