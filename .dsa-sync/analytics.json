@@ -1218,7 +1218,16 @@
       "language": "java",
       "path": "LeetCode/3498_Reverse_Degree_Of_A_String",
       "timestamp": 1789890343104
+    },
+    {
+      "platform": "leetcode",
+      "title": "Pass the Pillow",
+      "slug": "pass-the-pillow",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/2582_Pass_The_Pillow",
+      "timestamp": 1789987474336
     }
   ],
-  "lastSync": "2026-09-20T07:45:43.109Z"
+  "lastSync": "2026-09-21T10:44:34.341Z"
 }
