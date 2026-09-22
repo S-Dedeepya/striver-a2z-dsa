@@ -1227,7 +1227,16 @@
       "language": "java",
       "path": "LeetCode/2582_Pass_The_Pillow",
       "timestamp": 1789987474336
+    },
+    {
+      "platform": "leetcode",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/0258_Add_Digits",
+      "timestamp": 1790067813829
     }
   ],
-  "lastSync": "2026-09-21T10:44:34.341Z"
+  "lastSync": "2026-09-22T09:03:33.834Z"
 }
