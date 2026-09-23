@@ -1236,7 +1236,16 @@
       "language": "java",
       "path": "LeetCode/0258_Add_Digits",
       "timestamp": 1790067813829
+    },
+    {
+      "platform": "leetcode",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/3736_Minimum_Moves_To_Equal_Array_Elements_Iii",
+      "timestamp": 1790153707474
     }
   ],
-  "lastSync": "2026-09-22T09:03:33.834Z"
+  "lastSync": "2026-09-23T08:55:07.479Z"
 }
