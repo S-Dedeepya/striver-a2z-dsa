@@ -69,3 +69,33 @@ count % 2 determines the current direction.
 
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
+
+## Solution 2
+
+```java
+class Solution {
+    public int passThePillow(int n, int time) {
+        int direction = time / (n -1);
+        time = time % (n-1);
+        if(direction%2!=0){
+            return n-time;
+        }
+        return 1+time;
+    }
+}
+```
+
+### Intuition
+solved using 0(1) time complexity.
+
+### Logic to Be Careful With
+if direction is odd then pillow should be passed from backwards else forwards
+
+### Edge Cases Handled
+alllllllllllllllllll
+
+### Mistakes Made
+no mistakes madeeeeeeeeeeee
+
+**Time Complexity:** O(1)  
+**Space Complexity:** O(1)
