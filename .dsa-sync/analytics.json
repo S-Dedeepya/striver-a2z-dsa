@@ -1245,7 +1245,16 @@
       "language": "java",
       "path": "LeetCode/3736_Minimum_Moves_To_Equal_Array_Elements_Iii",
       "timestamp": 1790153707474
+    },
+    {
+      "platform": "leetcode",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/3550_Smallest_Index_With_Digit_Sum_Equal_To_Index",
+      "timestamp": 1790228912373
     }
   ],
-  "lastSync": "2026-09-23T08:55:07.479Z"
+  "lastSync": "2026-09-24T05:48:32.378Z"
 }
