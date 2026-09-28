@@ -1281,7 +1281,16 @@
       "language": "java",
       "path": "LeetCode/0263_Ugly_Number",
       "timestamp": 1790517991482
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/1614_Maximum_Nesting_Depth_Of_The_Parentheses",
+      "timestamp": 1790614520258
     }
   ],
-  "lastSync": "2026-09-27T14:06:31.487Z"
+  "lastSync": "2026-09-28T16:55:20.262Z"
 }
