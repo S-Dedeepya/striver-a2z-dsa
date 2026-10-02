@@ -1308,7 +1308,16 @@
       "language": "java",
       "path": "LeetCode/1748_Sum_Of_Unique_Elements",
       "timestamp": 1790759395095
+    },
+    {
+      "platform": "leetcode",
+      "title": "Number of Employees Who Met the Target",
+      "slug": "number-of-employees-who-met-the-target",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/2798_Number_Of_Employees_Who_Met_The_Target",
+      "timestamp": 1790957480615
     }
   ],
-  "lastSync": "2026-09-30T09:09:55.099Z"
+  "lastSync": "2026-10-02T16:11:20.620Z"
 }
