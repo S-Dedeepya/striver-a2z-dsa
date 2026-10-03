@@ -1317,7 +1317,16 @@
       "language": "java",
       "path": "LeetCode/2798_Number_Of_Employees_Who_Met_The_Target",
       "timestamp": 1790957480615
+    },
+    {
+      "platform": "leetcode",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/2894_Divisible_And_Non_Divisible_Sums_Difference",
+      "timestamp": 1791046677120
     }
   ],
-  "lastSync": "2026-10-02T16:11:20.620Z"
+  "lastSync": "2026-10-03T16:57:57.124Z"
 }
