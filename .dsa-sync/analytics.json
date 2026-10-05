@@ -1343,7 +1343,15 @@
       "language": "java",
       "path": "GFG/Check_Sorted_Array",
       "timestamp": 1791202161456
+    },
+    {
+      "platform": "gfg",
+      "title": "Bubble Sort",
+      "slug": "bubble-sort",
+      "language": "java",
+      "path": "GFG/Bubble_Sort",
+      "timestamp": 1791203351556
     }
   ],
-  "lastSync": "2026-10-05T12:09:21.461Z"
+  "lastSync": "2026-10-05T12:29:11.561Z"
 }
