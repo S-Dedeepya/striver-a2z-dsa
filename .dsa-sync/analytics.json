@@ -1402,7 +1402,15 @@
       "language": "java",
       "path": "GFG/Binary_To_Decimal",
       "timestamp": 1791302064963
+    },
+    {
+      "platform": "gfg",
+      "title": "Check K-th Bit",
+      "slug": "check-whether-k-th-bit-is-set-or-not-1587115620",
+      "language": "java",
+      "path": "GFG/Check_K_th_Bit",
+      "timestamp": 1791302640736
     }
   ],
-  "lastSync": "2026-10-06T15:54:24.976Z"
+  "lastSync": "2026-10-06T16:04:00.750Z"
 }
