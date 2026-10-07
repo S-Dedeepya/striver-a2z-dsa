@@ -1419,7 +1419,16 @@
       "language": "java",
       "path": "LeetCode/2595_Number_Of_Even_And_Odd_Bits",
       "timestamp": 1791360012107
+    },
+    {
+      "platform": "leetcode",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/0190_Reverse_Bits",
+      "timestamp": 1791361916247
     }
   ],
-  "lastSync": "2026-10-07T08:00:12.121Z"
+  "lastSync": "2026-10-07T08:31:56.260Z"
 }
