@@ -1409,7 +1409,7 @@
       "slug": "check-whether-k-th-bit-is-set-or-not-1587115620",
       "language": "java",
       "path": "GFG/Check_K_th_Bit",
-      "timestamp": 1791302640736
+      "timestamp": 1791475476385
     },
     {
       "platform": "leetcode",
@@ -1430,5 +1430,5 @@
       "timestamp": 1791361916247
     }
   ],
-  "lastSync": "2026-10-07T08:31:56.260Z"
+  "lastSync": "2026-10-08T16:04:36.390Z"
 }
