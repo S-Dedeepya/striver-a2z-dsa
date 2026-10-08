@@ -69,3 +69,36 @@ because valid indices are 0 to length-1.
 
 **Time Complexity:** O(log n)  
 **Space Complexity:** O(logn)
+
+## Solution 2
+
+```java
+class CheckBit {
+    static boolean checkKthBit(int n, int k) {
+        return (n&(1<<k))!=0;
+    }
+}
+```
+
+### Intuition
+1 << k creates a number with only the kth bit set.
+n & (1 << k) checks whether that bit is also set in n.
+Non-zero → bit is 1.
+Zero → bit is 0
+
+### Logic to Be Careful With
+1 << k
+
+→ creates the mask for kth bit.
+n & (1 << k)
+
+→ extracts/checks the kth bit.
+
+### Edge Cases Handled
+allllllllllllllllllllllll
+
+### Mistakes Made
+nopeeeeeeeeeeeeeeeeeeeeeeee
+
+**Time Complexity:** O(1)  
+**Space Complexity:** O(1)
