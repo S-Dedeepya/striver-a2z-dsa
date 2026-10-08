@@ -1445,7 +1445,16 @@
       "language": "java",
       "path": "LeetCode/0231_Power_Of_Two",
       "timestamp": 1791476028163
+    },
+    {
+      "platform": "leetcode",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/0191_Number_Of_1_Bits",
+      "timestamp": 1791476493882
     }
   ],
-  "lastSync": "2026-10-08T16:13:48.167Z"
+  "lastSync": "2026-10-08T16:21:33.887Z"
 }
