@@ -1436,7 +1436,16 @@
       "language": "java",
       "path": "GFG/Odd_Or_Even",
       "timestamp": 1791475700384
+    },
+    {
+      "platform": "leetcode",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/0231_Power_Of_Two",
+      "timestamp": 1791476028163
     }
   ],
-  "lastSync": "2026-10-08T16:08:20.390Z"
+  "lastSync": "2026-10-08T16:13:48.167Z"
 }
