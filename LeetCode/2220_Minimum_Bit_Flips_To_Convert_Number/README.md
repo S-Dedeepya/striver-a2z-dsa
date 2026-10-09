@@ -91,3 +91,53 @@ nopeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 **Time Complexity:** O(log n)  
 **Space Complexity:** O(1)
+
+## Solution 2
+
+```java
+class Solution {
+    public int minBitFlips(int start, int goal) {
+        int count=0;
+        int n=start^goal;
+        while(n!=0){
+            if((n&1)==1) count++;
+            n=n>>1;
+        }
+        return count;
+    }
+}
+```
+
+### Intuition
+Use XOR (^) on start and goal.
+
+
+
+XOR produces 1 wherever the corresponding bits differ.
+
+
+
+Count the number of 1 bits in the XOR result.
+
+### Logic to Be Careful With
+int n = start ^ goal;
+
+
+→ Finds all differing bit positions.
+if((n & 1) == 1) count++;
+
+
+→ Checks whether the rightmost bit is 1.
+n = n >> 1;
+
+
+→ Shifts right to process the next bit.
+
+### Edge Cases Handled
+allllllllllllllllllllllllllllllllllllllllllll
+
+### Mistakes Made
+nopeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+**Time Complexity:** O(log n)  
+**Space Complexity:** O(1)
