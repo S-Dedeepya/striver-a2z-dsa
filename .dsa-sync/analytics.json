@@ -1487,7 +1487,16 @@
       "language": "java",
       "path": "GFG/Merge_Sort",
       "timestamp": 1791546662909
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Number of Words Found in Sentences",
+      "slug": "maximum-number-of-words-found-in-sentences",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/2114_Maximum_Number_Of_Words_Found_In_Sentences",
+      "timestamp": 1791652611994
     }
   ],
-  "lastSync": "2026-10-09T11:51:02.915Z"
+  "lastSync": "2026-10-10T17:16:52.003Z"
 }
