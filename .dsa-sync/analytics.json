@@ -1514,7 +1514,16 @@
       "language": "java",
       "path": "LeetCode/0912_Sort_An_Array",
       "timestamp": 1791804263314
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Product Pair With Target Sum",
+      "slug": "maximum-product-pair-with-target-sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/4074_Maximum_Product_Pair_With_Target_Sum",
+      "timestamp": 1791805995107
     }
   ],
-  "lastSync": "2026-10-12T11:24:23.332Z"
+  "lastSync": "2026-10-12T11:53:15.123Z"
 }
