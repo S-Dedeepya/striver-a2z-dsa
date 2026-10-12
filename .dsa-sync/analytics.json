@@ -1505,7 +1505,16 @@
       "language": "java",
       "path": "LeetCode/2778_Sum_Of_Squares_Of_Special_Elements",
       "timestamp": 1791780913666
+    },
+    {
+      "platform": "leetcode",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/0912_Sort_An_Array",
+      "timestamp": 1791804263314
     }
   ],
-  "lastSync": "2026-10-12T04:55:13.672Z"
+  "lastSync": "2026-10-12T11:24:23.332Z"
 }
