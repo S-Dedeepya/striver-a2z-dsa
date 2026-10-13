@@ -75,3 +75,51 @@ nopeeeeeeeeeeeeeeeeeeeeeeee
 
 **Time Complexity:** O(n log n)  
 **Space Complexity:** O(n)
+
+## Solution 2
+
+```java
+class Solution {
+    public int[] sortArray(int[] nums) {
+        quicksort(nums,0,nums.length-1);
+        return nums;
+    }
+    public static void quicksort(int[] nums,int left,int right){
+        if(left>=right) return;
+        int pivot=partition(nums,left,right);
+        quicksort(nums,left,pivot-1);
+        quicksort(nums,pivot+1,right);
+    }
+    public static int partition(int[] nums,int l,int r){
+        int last=r;
+        int i=l;
+        for(int j=l;j<r;j++){
+            if(nums[j]<nums[last]){
+                int temp=nums[i];
+                nums[i]=nums[j];
+                nums[j]=temp;
+                i++;
+            }
+        }
+        int temp=nums[last];
+        nums[last]=nums[i];
+        nums[i]=temp;
+        return i;
+    }
+}
+```
+
+### Intuition
+quicksortttttttttttttttttttttttttt
+
+### Logic to Be Careful With
+this will fail for this leetcode problem because choosing first/last will give tle
+
+### Edge Cases Handled
+largeeeeeeeeeeeeee arrayyyyyyyyyyyyyyy
+
+### Mistakes Made
+code correct but cannot be accepted
+
+**Time Complexity:** O(n log n)  
+**Space Complexity:** O(1)
