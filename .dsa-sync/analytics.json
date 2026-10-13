@@ -1531,7 +1531,16 @@
       "language": "java",
       "path": "GFG/Quick_Sort",
       "timestamp": 1791810246062
+    },
+    {
+      "platform": "leetcode",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/0035_Search_Insert_Position",
+      "timestamp": 1791891982793
     }
   ],
-  "lastSync": "2026-10-13T11:27:10.672Z"
+  "lastSync": "2026-10-13T11:46:22.799Z"
 }
