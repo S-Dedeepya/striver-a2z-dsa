@@ -1540,7 +1540,16 @@
       "language": "java",
       "path": "LeetCode/0035_Search_Insert_Position",
       "timestamp": 1791891982793
+    },
+    {
+      "platform": "leetcode",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/2418_Sort_The_People",
+      "timestamp": 1791978363806
     }
   ],
-  "lastSync": "2026-10-13T11:46:22.799Z"
+  "lastSync": "2026-10-14T11:46:03.814Z"
 }
