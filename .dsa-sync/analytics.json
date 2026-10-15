@@ -1585,7 +1585,16 @@
       "language": "java",
       "path": "LeetCode/1095_Find_In_Mountain_Array",
       "timestamp": 1792067076254
+    },
+    {
+      "platform": "leetcode",
+      "title": "Find Indices of Stable Mountains",
+      "slug": "find-indices-of-stable-mountains",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/1095_Find_Indices_Of_Stable_Mountains",
+      "timestamp": 1792068242702
     }
   ],
-  "lastSync": "2026-10-15T12:24:36.260Z"
+  "lastSync": "2026-10-15T12:44:02.708Z"
 }
