@@ -1558,7 +1558,16 @@
       "language": "java",
       "path": "LeetCode/0162_Find_Peak_Element",
       "timestamp": 1792058776988
+    },
+    {
+      "platform": "leetcode",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/1470_Shuffle_The_Array",
+      "timestamp": 1792061057646
     }
   ],
-  "lastSync": "2026-10-15T10:06:16.994Z"
+  "lastSync": "2026-10-15T10:44:17.652Z"
 }
