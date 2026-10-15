@@ -1567,7 +1567,16 @@
       "language": "java",
       "path": "LeetCode/1470_Shuffle_The_Array",
       "timestamp": 1792061057646
+    },
+    {
+      "platform": "leetcode",
+      "title": "Example:",
+      "slug": "valid-mountain-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/0941_Valid_Mountain_Array",
+      "timestamp": 1792064553393
     }
   ],
-  "lastSync": "2026-10-15T10:44:17.652Z"
+  "lastSync": "2026-10-15T11:42:33.399Z"
 }
