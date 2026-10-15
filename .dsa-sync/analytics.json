@@ -1576,7 +1576,16 @@
       "language": "java",
       "path": "LeetCode/0941_Valid_Mountain_Array",
       "timestamp": 1792064553393
+    },
+    {
+      "platform": "leetcode",
+      "title": "Find in Mountain Array",
+      "slug": "find-in-mountain-array",
+      "difficulty": "Hard",
+      "language": "java",
+      "path": "LeetCode/1095_Find_In_Mountain_Array",
+      "timestamp": 1792067076254
     }
   ],
-  "lastSync": "2026-10-15T11:42:33.399Z"
+  "lastSync": "2026-10-15T12:24:36.260Z"
 }
