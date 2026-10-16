@@ -53,3 +53,45 @@ nopeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 **Time Complexity:** O(n)  
 **Space Complexity:** O(n)
+
+## Solution 2
+
+```java
+class Solution {
+    public int findKthPositive(int[] arr, int k) {
+        int i=0;
+        int j=0;
+        int ans=0;
+        while(k>0 && i<arr.length){
+            if(arr[i]!=j+1){
+                ans=j+1;
+                k--;
+            }else{
+                i++;
+            }
+            j++;
+        }
+        while(k>0){
+            ans=j+1;
+            j++;
+            k--;
+        }
+        return ans;
+    }
+}
+```
+
+### Intuition
+without using extra space but o(n) complexity
+
+### Logic to Be Careful With
+decrementing k and incrementing i,j
+
+### Edge Cases Handled
+allllllllllllllllllllllllll
+
+### Mistakes Made
+nopeeeeeeeeeeeeeeeeeeeeeeeeee
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
