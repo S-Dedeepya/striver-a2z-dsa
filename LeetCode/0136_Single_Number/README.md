@@ -123,3 +123,32 @@ npoeeeeeeeeeeeeeeeeeeeee
 
 **Time Complexity:** O(n^2)  
 **Space Complexity:** O(1)
+
+## Solution 4
+
+```java
+class Solution {
+    public int singleNumber(int[] nums) {
+        int result=0;
+        for(int i=0;i<nums.length;i++){
+            result=result^nums[i];
+        }
+        return result;
+    }
+}
+```
+
+### Intuition
+using xor operator. optimized
+
+### Logic to Be Careful With
+alllllllllllllllllllllllllllllllllllll
+
+### Edge Cases Handled
+allllllllllllllllllllll
+
+### Mistakes Made
+nopeeeeeeeeeeeeeeeeeeeee
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
