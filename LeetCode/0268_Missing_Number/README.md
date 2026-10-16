@@ -49,3 +49,34 @@ nooooooooooooooooooo
 
 **Time Complexity:** O(n^2)  
 **Space Complexity:** O(1)
+
+## Solution 2
+
+```java
+class Solution {
+    public int missingNumber(int[] nums) {
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length;i++){
+            if(i!=nums[i]){
+                return i;
+            }
+        }
+        return nums.length;
+    }
+}
+```
+
+### Intuition
+using sorting technique
+
+### Logic to Be Careful With
+finding the answerrrrrr
+
+### Edge Cases Handled
+alllllllllllllllllllllllllllllllll
+
+### Mistakes Made
+nopeeeeeeeeeeeeeeeeeee
+
+**Time Complexity:** O(n log n)  
+**Space Complexity:** O(1)
