@@ -82,3 +82,44 @@ nopeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 **Time Complexity:** O(n)  
 **Space Complexity:** O(n)
+
+## Solution 3
+
+```java
+class Solution {
+    public int singleNumber(int[] nums) {
+        for(int i=0;i<nums.length;i++){
+            int j=0;
+            while(j<nums.length){
+                if(j==i){
+                    j++;
+                    continue;
+                }
+                if(nums[i]==nums[j]){
+                    break;
+                }
+                j++;
+            }
+            if(j>=nums.length){
+                return nums[i];
+            }
+        }
+        return 0;
+    }
+}
+```
+
+### Intuition
+brute forceeeeeeeeeeeeeeeeeeeeee
+
+### Logic to Be Careful With
+finding the answerrrrrrrrrrrrrrrrrrrrrrrrr
+
+### Edge Cases Handled
+allllllllllllllllllllllllllllllll
+
+### Mistakes Made
+npoeeeeeeeeeeeeeeeeeeeee
+
+**Time Complexity:** O(n^2)  
+**Space Complexity:** O(1)
