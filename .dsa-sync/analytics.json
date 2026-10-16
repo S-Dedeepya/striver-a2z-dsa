@@ -1620,7 +1620,7 @@
       "difficulty": "Easy",
       "language": "java",
       "path": "LeetCode/1539_Kth_Missing_Positive_Number",
-      "timestamp": 1792150364266
+      "timestamp": 1792153775348
     },
     {
       "platform": "leetcode",
@@ -1632,5 +1632,5 @@
       "timestamp": 1792150660980
     }
   ],
-  "lastSync": "2026-10-16T11:37:40.986Z"
+  "lastSync": "2026-10-16T12:29:35.358Z"
 }
