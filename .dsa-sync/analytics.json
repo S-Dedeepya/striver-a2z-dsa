@@ -1594,7 +1594,16 @@
       "language": "java",
       "path": "LeetCode/1095_Find_Indices_Of_Stable_Mountains",
       "timestamp": 1792068242702
+    },
+    {
+      "platform": "leetcode",
+      "title": "None of the test cases are wrong. They're just confusing.",
+      "slug": "shuffle-string",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/1528_Shuffle_String",
+      "timestamp": 1792149425115
     }
   ],
-  "lastSync": "2026-10-15T12:44:02.708Z"
+  "lastSync": "2026-10-16T11:17:05.121Z"
 }
