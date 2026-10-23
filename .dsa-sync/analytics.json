@@ -1630,7 +1630,16 @@
       "language": "java",
       "path": "LeetCode/0268_Missing_Number",
       "timestamp": 1792150660980
+    },
+    {
+      "platform": "leetcode",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/2089_Find_Target_Indices_After_Sorting_Array",
+      "timestamp": 1792771256168
     }
   ],
-  "lastSync": "2026-10-16T12:29:35.358Z"
+  "lastSync": "2026-10-23T16:00:56.190Z"
 }
