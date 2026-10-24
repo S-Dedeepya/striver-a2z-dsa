@@ -1639,7 +1639,16 @@
       "language": "java",
       "path": "LeetCode/2089_Find_Target_Indices_After_Sorting_Array",
       "timestamp": 1792771256168
+    },
+    {
+      "platform": "leetcode",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "LeetCode/0709_To_Lower_Case",
+      "timestamp": 1792858687387
     }
   ],
-  "lastSync": "2026-10-23T16:00:56.190Z"
+  "lastSync": "2026-10-24T16:18:07.399Z"
 }
