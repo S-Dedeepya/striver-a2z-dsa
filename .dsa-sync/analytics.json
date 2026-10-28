@@ -1666,7 +1666,16 @@
       "language": "java",
       "path": "LeetCode/0540_Single_Element_In_A_Sorted_Array",
       "timestamp": 1793104455805
+    },
+    {
+      "platform": "leetcode",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "LeetCode/0215_Kth_Largest_Element_In_An_Array",
+      "timestamp": 1793181424414
     }
   ],
-  "lastSync": "2026-10-27T12:34:15.811Z"
+  "lastSync": "2026-10-28T09:57:04.420Z"
 }
